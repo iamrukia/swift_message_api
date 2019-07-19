@@ -2,5 +2,5 @@
 
 .idea/
 /target
-
+/target/
 swift_message_api.iml
